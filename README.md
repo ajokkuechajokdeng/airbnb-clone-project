@@ -105,15 +105,5 @@ We aim to build modular and reusable components for a scalable frontend architec
 - Social media links
 - Copyright
 
----
 
-## ✅ Project Initialization
-
-The repository has been initialized with:
-
-- A public GitHub repository: `airbnb-clone-project`
-- A `README.md` file (this document)
-- Documentation sections for planning and collaboration
-
-Stay tuned for future updates as we build the full AirBnB clone!
 
